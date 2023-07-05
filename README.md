@@ -3,7 +3,7 @@ Denis Mezenko
 May 2022, MIPT School of Applied Mathematics and Informatics  
   
 ===========================================================================  
-#### Task:  
+#### Task:
 #### Develop an ETL process that receives daily ATM operation data (provided for 3 days), uploads it to the data warehouse, and builds daily report.  
   
 ##### Uploading data  
