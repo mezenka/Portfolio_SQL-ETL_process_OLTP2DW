@@ -2,9 +2,10 @@
 Denis Mezenko  
 May 2022, MIPT School of Applied Mathematics and Informatics  
   
-#### Task**: Develop an ETL process that receives daily ATM operation data (provided for 3 days), uploads it to the data warehouse, and builds daily report.  
+#### Task:  
+#### Develop an ETL process that receives daily ATM operation data (provided for 3 days), uploads it to the data warehouse, and builds daily report.  
   
-Uploading data:  
+##### Uploading data  
 Every day the following three files are received from some OLTP systems:  
 1. List of transactions for the current day. Format - CSV.  
 2. List of terminals. Format - XLSX.  
