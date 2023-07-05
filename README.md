@@ -2,9 +2,7 @@
 Denis Mezenko  
 May 2022, MIPT School of Applied Mathematics and Informatics  
   
-#### Task**:  
-===========================================================================  
-#### Develop an ETL process that receives daily ATM operation data (provided for 3 days), uploads it to the data warehouse, and builds daily report.  
+#### Task**: Develop an ETL process that receives daily ATM operation data (provided for 3 days), uploads it to the data warehouse, and builds daily report.  
   
 Uploading data:  
 Every day the following three files are received from some OLTP systems:  
@@ -18,9 +16,9 @@ You are provided with an upload for the last three days, it must be processed.
 
     
 The data must be loaded into storage with the specified structure.  
+
 ===========================================================================  
 
-  
 main.py - main process  
   
 main.cron - scheduling the main.py process  
