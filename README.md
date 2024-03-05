@@ -1,5 +1,5 @@
 ##### Individual project
-Denis Mezenko  
+Denis Mezenko
 May 2022, MIPT School of Applied Mathematics and Informatics  
   
 ===========================================================================  
